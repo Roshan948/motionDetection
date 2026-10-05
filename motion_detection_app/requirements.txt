@@ -1,0 +1,4 @@
+# Supported Python: 3.10 or newer (tested on 3.12).
+# These ranges are what the app is known to work with; requirements.lock has the exact tested versions.
+opencv-python>=4.8,<5
+numpy>=1.24,<3

@@ -1,0 +1,5 @@
+# Exact versions the test suite passed with (Python 3.12, Linux).
+# Reproducible install:  pip install -r requirements.lock
+# On an older Python where these versions are unavailable, use requirements.txt instead.
+opencv-python==4.13.0.92
+numpy==2.4.4
